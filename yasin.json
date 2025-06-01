@@ -1,0 +1,266 @@
+{
+  "bullets": [
+    {
+      "bounds": {
+        "x": 3092.1658,
+        "y": 1246.1001,
+        "width": 20.0,
+        "height": 20.0
+      },
+      "damage": 20,
+      "direction": {
+        "x": 0.09877922,
+        "y": -0.9951094,
+        "z": 0.0
+      }
+    },
+    {
+      "bounds": {
+        "x": 3083.1323,
+        "y": 1337.0947,
+        "width": 20.0,
+        "height": 20.0
+      },
+      "damage": 20,
+      "direction": {
+        "x": 0.09877922,
+        "y": -0.9951094,
+        "z": 0.0
+      }
+    }
+  ],
+  "enemyBullets": [],
+  "trees": [
+    {
+      "bounds": {
+        "x": 589.0,
+        "y": 1070.0,
+        "width": 100.0,
+        "height": 250.0
+      },
+      "animationTime": 1.6536158
+    },
+    {
+      "bounds": {
+        "x": 3205.0,
+        "y": 1318.0,
+        "width": 100.0,
+        "height": 250.0
+      },
+      "animationTime": 1.6536158
+    },
+    {
+      "bounds": {
+        "x": 208.0,
+        "y": 17.0,
+        "width": 100.0,
+        "height": 250.0
+      },
+      "animationTime": 1.6536158
+    },
+    {
+      "bounds": {
+        "x": 792.0,
+        "y": 2238.0,
+        "width": 100.0,
+        "height": 250.0
+      },
+      "animationTime": 1.6536158
+    },
+    {
+      "bounds": {
+        "x": 1515.0,
+        "y": 2793.0,
+        "width": 100.0,
+        "height": 250.0
+      },
+      "animationTime": 1.6536158
+    },
+    {
+      "bounds": {
+        "x": 1417.0,
+        "y": 2293.0,
+        "width": 100.0,
+        "height": 250.0
+      },
+      "animationTime": 1.6536158
+    },
+    {
+      "bounds": {
+        "x": 2448.0,
+        "y": 3561.0,
+        "width": 100.0,
+        "height": 250.0
+      },
+      "animationTime": 1.6536158
+    },
+    {
+      "bounds": {
+        "x": 2447.0,
+        "y": 862.0,
+        "width": 100.0,
+        "height": 250.0
+      },
+      "animationTime": 1.6536158
+    },
+    {
+      "bounds": {
+        "x": 2549.0,
+        "y": 2783.0,
+        "width": 100.0,
+        "height": 250.0
+      },
+      "animationTime": 1.6536158
+    },
+    {
+      "bounds": {
+        "x": 1257.0,
+        "y": 929.0,
+        "width": 100.0,
+        "height": 250.0
+      },
+      "animationTime": 1.6536158
+    },
+    {
+      "bounds": {
+        "x": 216.0,
+        "y": 849.0,
+        "width": 100.0,
+        "height": 250.0
+      },
+      "animationTime": 1.6536158
+    },
+    {
+      "bounds": {
+        "x": 1128.0,
+        "y": 1830.0,
+        "width": 100.0,
+        "height": 250.0
+      },
+      "animationTime": 1.6536158
+    },
+    {
+      "bounds": {
+        "x": 3044.0,
+        "y": 2098.0,
+        "width": 100.0,
+        "height": 250.0
+      },
+      "animationTime": 1.6536158
+    },
+    {
+      "bounds": {
+        "x": 2596.0,
+        "y": 1117.0,
+        "width": 100.0,
+        "height": 250.0
+      },
+      "animationTime": 1.6536158
+    },
+    {
+      "bounds": {
+        "x": 1580.0,
+        "y": 3393.0,
+        "width": 100.0,
+        "height": 250.0
+      },
+      "animationTime": 1.6536158
+    },
+    {
+      "bounds": {
+        "x": 1743.0,
+        "y": 2727.0,
+        "width": 100.0,
+        "height": 250.0
+      },
+      "animationTime": 1.6536158
+    },
+    {
+      "bounds": {
+        "x": 1491.0,
+        "y": 2047.0,
+        "width": 100.0,
+        "height": 250.0
+      },
+      "animationTime": 1.6536158
+    },
+    {
+      "bounds": {
+        "x": 550.0,
+        "y": 1508.0,
+        "width": 100.0,
+        "height": 250.0
+      },
+      "animationTime": 1.6536158
+    },
+    {
+      "bounds": {
+        "x": 206.0,
+        "y": 331.0,
+        "width": 100.0,
+        "height": 250.0
+      },
+      "animationTime": 1.6536158
+    },
+    {
+      "bounds": {
+        "x": 643.0,
+        "y": 1946.0,
+        "width": 100.0,
+        "height": 250.0
+      },
+      "animationTime": 1.6536158
+    }
+  ],
+  "tentacleMonsters": [],
+  "eyeBats": [],
+  "bossFights": [],
+  "points": [],
+  "playerDamaged": [],
+  "enemyDead": [],
+  "lastTentacleSpawnTime": 1748729223515,
+  "lastEyeBatSpawnTime": 1748729216481,
+  "player": {
+    "weapon": {
+      "type": "Revolver",
+      "maxAmmo": 6,
+      "Ammo": 4,
+      "projectile": 1,
+      "isReloading": false,
+      "reloadTimer": 0.0,
+      "damagerTime": 0
+    },
+    "hero": "DIAMOND",
+    "health": 5,
+    "maxHealth": 7,
+    "xp": 0,
+    "level": 1,
+    "kills": 0,
+    "speedAbilityTime": 0,
+    "speed": 480.0,
+    "bounds": {
+      "x": 3029.4302,
+      "y": 1878.0835,
+      "width": 38.399998,
+      "height": 115.2
+    },
+    "time": 0.2572105,
+    "heartTime": 0.2572105,
+    "lastDamageTime": 1748729217244
+  },
+  "endTime": 1748729316435,
+  "startTime": 1748729196435,
+  "pauseTime": 1748729226164,
+  "vitality": 0,
+  "damager": 0,
+  "procrease": 0,
+  "amocrease": 0,
+  "speedy": 0,
+  "bossFightReleased": false,
+  "ring": {
+    "x": 0.0,
+    "y": 0.0,
+    "width": 3840.0,
+    "height": 3840.0
+  }
+}

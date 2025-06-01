@@ -1,0 +1,34 @@
+{
+  "Yasin": {
+    "username": "Yasin",
+    "password": "Yasin$60",
+    "securityQuestion": "What is your favorite color?",
+    "securityAnswer": "Green",
+    "avatarAddress": "Avatars/T_Shana_Portrait.png",
+    "score": 0,
+    "maxSurvivalTime": 0,
+    "numberOfKills": 0,
+    "sfx": true,
+    "blackWhite": false,
+    "keyBoardController": false,
+    "autoReload": false,
+    "playingMusic": "Ready to Fight",
+    "french": false
+  },
+  "sepehrw": {
+    "username": "sepehrw",
+    "password": "Sepehr$60",
+    "securityQuestion": "What is your favorite color?",
+    "securityAnswer": "Red",
+    "avatarAddress": "Avatars/T_Diamond_Portrait.png",
+    "score": 0,
+    "maxSurvivalTime": 0,
+    "numberOfKills": 0,
+    "sfx": true,
+    "blackWhite": false,
+    "keyBoardController": false,
+    "autoReload": false,
+    "playingMusic": "Ready to Fight",
+    "french": false
+  }
+}
